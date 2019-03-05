@@ -1,0 +1,15 @@
+{
+	"ImportPath": "learn/markdown_generator",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.5.2-4-ga477dd1",
+			"Rev": "a477dd1646916742841ed20379f941cfa6c5bb6f"
+		}
+	]
+}
